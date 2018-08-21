@@ -6,7 +6,7 @@ import java.util.Set;
 
 
 @Entity
-public class Author {
+public class  Author {
 
     @Id
     @GeneratedValue( strategy = GenerationType.AUTO )
