@@ -11,6 +11,7 @@ Removers users from a chatroom
 
 ## Result
 The method returns `result:object` containing chat ID object array of participants and sequence ID.
+
 | Parameter | Type | Description |
 | ---- | ---- | ---- |
 | participants | `Object array` | Array of participant objects |
