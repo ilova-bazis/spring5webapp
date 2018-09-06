@@ -1,4 +1,4 @@
-## chat.removeChatUser
+# chat.removeChatUser
 
 Removers users from a chatroom
 
